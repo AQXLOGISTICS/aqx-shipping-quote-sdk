@@ -1,0 +1,21 @@
+{
+  "name": "@aqxlogistics/shipping-quote",
+  "version": "1.0.0",
+  "description": "Zero-dependency JavaScript SDK for real-time US international air freight & volumetric weight quotes across 15 countries via AQX Logistics OpenAPI 3.0.3",
+  "type": "module",
+  "main": "index.mjs",
+  "homepage": "https://aqxlogistics.com/developers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AQXLOGISTICS/aqx-shipping-quote-sdk.git"
+  },
+  "keywords": [
+    "shipping",
+    "air-freight",
+    "logistics",
+    "package-forwarding",
+    "volumetric-weight",
+    "aqx-logistics"
+  ],
+  "license": "MIT"
+}
